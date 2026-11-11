@@ -1,0 +1,1691 @@
+{
+ "files": {
+  "builds/heroes/1.json": {
+   "sha256": "5b0b7e3615edce0834718363017ba61f0163033992272a9e2ccf74d6e47ac574",
+   "size": 51335
+  },
+  "builds/heroes/10.json": {
+   "sha256": "765ffceda854690b4cedf8f3b23f178d518d49a2a88fc65fd28c5e8d58534440",
+   "size": 61558
+  },
+  "builds/heroes/101.json": {
+   "sha256": "0e9efb3556d145fb86404be0e0796d9c88f40df102d471063d68cd184cba5ac0",
+   "size": 45910
+  },
+  "builds/heroes/102.json": {
+   "sha256": "92fe3562b84d4944bcaa328811c2249e5ff24b0337875616911e498e1812356a",
+   "size": 71294
+  },
+  "builds/heroes/103.json": {
+   "sha256": "07444d42e4ec0027d2655e3399bcb11c18b5d4799d08c28d1ab55ac0b4f9224f",
+   "size": 60061
+  },
+  "builds/heroes/104.json": {
+   "sha256": "173804d4d985a477f0f874b363063a5ca7a99490d11e8c7c161e590d726bceb4",
+   "size": 68190
+  },
+  "builds/heroes/105.json": {
+   "sha256": "5bdf682a594557379894c82425263a2aa5d18fe4d90d2941509d00343f772502",
+   "size": 64835
+  },
+  "builds/heroes/106.json": {
+   "sha256": "b32278601c07efb4125bade658cd01d6e3357db6504b9fe1e624a4c5436bc5a3",
+   "size": 92212
+  },
+  "builds/heroes/107.json": {
+   "sha256": "cddd1628a041bbc2c1b6b986e5c7abc65101a194be8e6c348adb0dbed6c3b1c6",
+   "size": 73201
+  },
+  "builds/heroes/11.json": {
+   "sha256": "a172caa7f10e6cfea3073fa55bfb1575f704ad5457e5560aab0d4d51fd8ba068",
+   "size": 78041
+  },
+  "builds/heroes/110.json": {
+   "sha256": "7e0bf3426f052c456cdf5a482a220be020b53139ea53657e0230c5ed3bf2a7a6",
+   "size": 69351
+  },
+  "builds/heroes/111.json": {
+   "sha256": "e584fbca7077cd17cc1868b3519e3fea645d54c26134876c6480d7d46e61bdec",
+   "size": 64288
+  },
+  "builds/heroes/112.json": {
+   "sha256": "92c4b302ed208efbf9fd4bfc0a92b03fdd8132d7ae1049c7c8095da4ebef4dfe",
+   "size": 45233
+  },
+  "builds/heroes/113.json": {
+   "sha256": "470fdd4c92cf47f0dad1c3c3226856f5fed72d4cc89d73480f771ffed017ba44",
+   "size": 61505
+  },
+  "builds/heroes/114.json": {
+   "sha256": "5d710f25f8f96850b1390e42588c430b64e535a5f83356eaa137357726443159",
+   "size": 68345
+  },
+  "builds/heroes/115.json": {
+   "sha256": "d4a8143f5745b87b95f617f9612dfa3696e6872a115cae6b5675e5440547bc78",
+   "size": 46148
+  },
+  "builds/heroes/117.json": {
+   "sha256": "00a92f652c79c471cd41d12804cb1c046969018172d75c9f2af18c3f4c6831dd",
+   "size": 62104
+  },
+  "builds/heroes/119.json": {
+   "sha256": "23d80154a213cff5079b575c7d47d0afa7e5b96fae40a750dcf255aad1e0644b",
+   "size": 60776
+  },
+  "builds/heroes/12.json": {
+   "sha256": "612cb909153de47588e661abc3b141799184788662f34ea68bd7cdedc7e76259",
+   "size": 71341
+  },
+  "builds/heroes/120.json": {
+   "sha256": "d4237205f6262515c5dc301f106019fd46133b791da280632b78681981b1dec3",
+   "size": 64880
+  },
+  "builds/heroes/121.json": {
+   "sha256": "f129678bbedd0991c458d2a0b12f391cbd8078fe0a942f2007fde9025bdc5af6",
+   "size": 62138
+  },
+  "builds/heroes/122.json": {
+   "sha256": "57614d76fefea1862daf15e3d137c6259b6ba1f64807cc919ea0c48ba7a15c95",
+   "size": 66501
+  },
+  "builds/heroes/126.json": {
+   "sha256": "24c13c0e0a0e12a5a17ad99cef466a5dae99186c48b23bc1a828204dd394ff8c",
+   "size": 63955
+  },
+  "builds/heroes/127.json": {
+   "sha256": "75646db17f326092fb1b5d86fe3b0ef893b981cfa61596bf7f39b38c376a465e",
+   "size": 63734
+  },
+  "builds/heroes/13.json": {
+   "sha256": "c2b657c4f0ea0ce569a15b3eea313251eb13ce1b327f9a5a33fa2c3355ff692b",
+   "size": 48725
+  },
+  "builds/heroes/131.json": {
+   "sha256": "eadae5fc4a2b06e901e61b806adcd699b14a0340bfc3f2660d821e1dfeddf26d",
+   "size": 70689
+  },
+  "builds/heroes/133.json": {
+   "sha256": "7d46a48225462bb06975bcacae1e95b4cba91c1b4702be10699e6abd31780cb7",
+   "size": 56184
+  },
+  "builds/heroes/134.json": {
+   "sha256": "048b04d82ab94aad3465be35863c5fd52458d12ed51e0329394183df90bdb713",
+   "size": 47831
+  },
+  "builds/heroes/136.json": {
+   "sha256": "0b81491579e7479595ce523cfd9edbe41ca4e022483146054586c3ea63ca3ac1",
+   "size": 47052
+  },
+  "builds/heroes/14.json": {
+   "sha256": "e6bababebee89032421b85297f5ae4f98748f632f8eb3a9fe4837cdfadb38eda",
+   "size": 69207
+  },
+  "builds/heroes/141.json": {
+   "sha256": "3ee0ba0262c4eb3e3374aea8b919904e7d17db2fd0eecac6c4077fc95bb639a0",
+   "size": 65464
+  },
+  "builds/heroes/142.json": {
+   "sha256": "2741d92f8d79ac07560d2b4c1e0607be66762a85766307dea5bcfb3b53863598",
+   "size": 50519
+  },
+  "builds/heroes/143.json": {
+   "sha256": "cbaa2515c344395d79306d18882b7284cb08e7bcf3e85525b0ab2a0b252ec999",
+   "size": 50291
+  },
+  "builds/heroes/145.json": {
+   "sha256": "2b4e8bbcdc3a437d3151cc4eb6e73e0d98adbbdc31fe2270f4fe87aa1dc4787e",
+   "size": 75175
+  },
+  "builds/heroes/147.json": {
+   "sha256": "e70fca851818ddc4ad67a4f5666faa8a9722a733e9d9e3ae5ffbf51784ebb949",
+   "size": 63064
+  },
+  "builds/heroes/15.json": {
+   "sha256": "e1d36517fd787ca1cbf0c51719a9cc4cccedec213ecd9b508b4ebb5917868a95",
+   "size": 53987
+  },
+  "builds/heroes/150.json": {
+   "sha256": "bfed526a20d4312a1d6a067067aab00702838c10334cf769a1c278696682bbaf",
+   "size": 60936
+  },
+  "builds/heroes/154.json": {
+   "sha256": "47a3e044e8e5c89e57d20e145a425542eb85ba5ab3deb00458c9529a5bd268f8",
+   "size": 61600
+  },
+  "builds/heroes/157.json": {
+   "sha256": "dfaa5bf473ab5cfe12d6bc4c7220885d4c7da1b50d9a786e096eb1d4e2bcaf2a",
+   "size": 70840
+  },
+  "builds/heroes/16.json": {
+   "sha256": "626a479b945f1af8b8a3f8fc699aa21b822a2bf35201c9d5536011205c3b2efe",
+   "size": 64640
+  },
+  "builds/heroes/161.json": {
+   "sha256": "c7cf3e74c9ac8d49828face3e760cdf1162a0b666fe8882d7b35391370a68b62",
+   "size": 45606
+  },
+  "builds/heroes/163.json": {
+   "sha256": "5cbaecb7880f7ad9e2e3c51860a141571039f94dd705e44c5e1d814b1cbc671d",
+   "size": 47489
+  },
+  "builds/heroes/164.json": {
+   "sha256": "d8609df746e5bfeef3e00087dbae4968afaf6263be4361799791ce6ee0a1388c",
+   "size": 60364
+  },
+  "builds/heroes/166.json": {
+   "sha256": "27762c01db53b66c641e54409d106394e8479fa1d3dcccb0f3183c1fefd0802c",
+   "size": 63410
+  },
+  "builds/heroes/17.json": {
+   "sha256": "111c11d190d203734191830abe855dde8859021bc28ddd4ee2d7299740a8094b",
+   "size": 67310
+  },
+  "builds/heroes/18.json": {
+   "sha256": "f7227296c8febbde6ebbdd951285725928762c344612b4e95f078328aa10c64a",
+   "size": 53720
+  },
+  "builds/heroes/19.json": {
+   "sha256": "d725ff9d024cbf0b25fc3815789c490e801eb8ef82c879f04e5544e8cf08c289",
+   "size": 62731
+  },
+  "builds/heroes/2.json": {
+   "sha256": "f5f45d70f3d7126fdba0f1b1c372d101ccd2f03d9d40d0be02882b4d3d44b967",
+   "size": 62583
+  },
+  "builds/heroes/20.json": {
+   "sha256": "eafacafc93daac293a7d95977e808f3da83a73b0839c650b5c1aaed99df5034c",
+   "size": 63564
+  },
+  "builds/heroes/200.json": {
+   "sha256": "690be502166e245050af5da383d69cdb1174dbe60e197302a4d4d5000a3ec745",
+   "size": 72488
+  },
+  "builds/heroes/201.json": {
+   "sha256": "5583da71881e4e4c16fd808cfd77a7b79f00081bc5779cf2189ee4d130aac5ef",
+   "size": 57304
+  },
+  "builds/heroes/202.json": {
+   "sha256": "af58c0d5f88cc09a232195cb7836f88941220c474c243f403078693d56b2db75",
+   "size": 63835
+  },
+  "builds/heroes/203.json": {
+   "sha256": "89adbb3c2dfb472d51ef089d69e8e31ffaa8e051d29595f6a69c5dde0858bab6",
+   "size": 54274
+  },
+  "builds/heroes/21.json": {
+   "sha256": "0459c654557ef9daecef6b7dc01c38242b1acf8c087739d8c14609ffd8c7e754",
+   "size": 80338
+  },
+  "builds/heroes/22.json": {
+   "sha256": "ebd1f5a6604aa8ff348f725a347c7efa89706c5afd27caab9bc2227b9aebcd79",
+   "size": 78289
+  },
+  "builds/heroes/221.json": {
+   "sha256": "0927f9561c5724ddd4c6289c31119e5acc4dc4ea3d22239012dafa8aead07f28",
+   "size": 67610
+  },
+  "builds/heroes/222.json": {
+   "sha256": "2fcf4cf16f496d67941c877c45567fd8a1701996038ca94975aa12d8b8c68100",
+   "size": 58483
+  },
+  "builds/heroes/223.json": {
+   "sha256": "f0ed5c1ed45efd4b7e8c642aafeec90181c6d5fa41ac08df8cb7860a6d4ead8d",
+   "size": 73604
+  },
+  "builds/heroes/23.json": {
+   "sha256": "985927380a2a54469c49e05ae116a816038120dc57d8f8568e700bf2967a3b9b",
+   "size": 78488
+  },
+  "builds/heroes/233.json": {
+   "sha256": "fd9dbfed54a4b5734af42a7803154eed0e11783a183ed7eea596ff7788a0ec0e",
+   "size": 76663
+  },
+  "builds/heroes/234.json": {
+   "sha256": "82400b86bfb10ab80212ab9df2840d4d57e45b89d138569d67993efb37b15e1d",
+   "size": 69703
+  },
+  "builds/heroes/235.json": {
+   "sha256": "3c80f415fb6cef3a342b143bb32850454d12bf7412e5a13aa701476cbd688cb8",
+   "size": 76382
+  },
+  "builds/heroes/236.json": {
+   "sha256": "bcd9f4667d73f399538121ce1ee9f18d0086e4a100b39f2e0993f9f4f0a2a655",
+   "size": 72318
+  },
+  "builds/heroes/238.json": {
+   "sha256": "bb8305238aea3077a60fc71c5a2bb4920937d480e36c16f0dd310c6fe2ff774a",
+   "size": 62037
+  },
+  "builds/heroes/24.json": {
+   "sha256": "152c9276731d356925506a1f7459efaf034e63e635125025694d28acc218c8a9",
+   "size": 79014
+  },
+  "builds/heroes/240.json": {
+   "sha256": "b6e62b4b4ddd1a53161537d812060482a94e3f0cf53ac4d40f11f140fa36e363",
+   "size": 55480
+  },
+  "builds/heroes/245.json": {
+   "sha256": "d99e949b28110e8b511b1c590e26bf6da530fc41bfad5ef81e7e7c681e19ae74",
+   "size": 55207
+  },
+  "builds/heroes/246.json": {
+   "sha256": "e4caf11a306f69625df248d4b235ecd1a7ffd790172957ea98b971d1890ec591",
+   "size": 62330
+  },
+  "builds/heroes/25.json": {
+   "sha256": "4b7ad8eee70ee1cc64501dde1e408128c6279766e555a7f7a6269e38f73285ed",
+   "size": 55977
+  },
+  "builds/heroes/254.json": {
+   "sha256": "1be82cf9212acdf056b0be893daf086698e067215dac8d75141baa2b2938b73f",
+   "size": 77647
+  },
+  "builds/heroes/26.json": {
+   "sha256": "6c2fedd980f74abb6c83c60f10888387f08113f30b5b1236154e6fc575f776b3",
+   "size": 45781
+  },
+  "builds/heroes/266.json": {
+   "sha256": "d8337e020c3580b776c936e83378e7865e0c8ca753d103281a21c2a07d1c135a",
+   "size": 70279
+  },
+  "builds/heroes/267.json": {
+   "sha256": "4820c5949ef368829309306a4b1cb9c34711157f991f9f3a9f641b4d7ece5389",
+   "size": 57870
+  },
+  "builds/heroes/268.json": {
+   "sha256": "ec686542b7627b10816e9e9daf5f9d769900a2850b77a936c18385487bfc7afb",
+   "size": 59598
+  },
+  "builds/heroes/27.json": {
+   "sha256": "c13fe5905f679ea034eda89d571ced231e43ced6bdcf2a6af37e8f5a275cc666",
+   "size": 65426
+  },
+  "builds/heroes/28.json": {
+   "sha256": "01866e1fcf96c2e8b144f993e79fdbf4bb856b30294bc1f865eb3605283deed5",
+   "size": 48071
+  },
+  "builds/heroes/29.json": {
+   "sha256": "d0334d37edee5b7ac976363772037f3e2aca295fae79b61c97898df5c8f7931b",
+   "size": 69127
+  },
+  "builds/heroes/3.json": {
+   "sha256": "214ba169c83858c5de30f1d2763d4888c83620cf2b9f4401f4bdf45209a4829e",
+   "size": 63911
+  },
+  "builds/heroes/30.json": {
+   "sha256": "98675afaa90e462433f347f0b8c97f98888a70a52f189e640ef7f0af93fe56a8",
+   "size": 49165
+  },
+  "builds/heroes/31.json": {
+   "sha256": "6c5a3d10afb6eabc41be0793aea768f2e4636d46d7eac22db7ceb4ffe5f8c39a",
+   "size": 73480
+  },
+  "builds/heroes/32.json": {
+   "sha256": "2f70c3d3c079b95a73049b976d3e5535152407e66a899521a9aeb73b96639e00",
+   "size": 64142
+  },
+  "builds/heroes/33.json": {
+   "sha256": "27393f7b98f3fd40716954ceeb8577b8412650c32506c36fa4951a830cf05ebd",
+   "size": 54526
+  },
+  "builds/heroes/34.json": {
+   "sha256": "c788f547d0e68ba86a7d9cffa13509434989c6afadf227fb652cd2d7aa829710",
+   "size": 49258
+  },
+  "builds/heroes/35.json": {
+   "sha256": "2947ce3d9ac6a826df91eb0a5a5ae980a608793965c6daa3d1983fe25b67b5b2",
+   "size": 80267
+  },
+  "builds/heroes/350.json": {
+   "sha256": "af8393fa3205e666616ff4f793388007f28646ae5c963e287c1945a14faab826",
+   "size": 50672
+  },
+  "builds/heroes/36.json": {
+   "sha256": "8eeeb440a135b71f9e82a91d1c787f9bab71025baafb995fbc2a178b4c8781cf",
+   "size": 63651
+  },
+  "builds/heroes/360.json": {
+   "sha256": "4bcfc524d9db70fbc1611c41b2d2dc42bf67da05020cd10f824ca59d2e7bf68f",
+   "size": 62235
+  },
+  "builds/heroes/37.json": {
+   "sha256": "8b4089c170579ab741caf7053b0012093abff31eafe391dcdc87ca55553261fd",
+   "size": 61424
+  },
+  "builds/heroes/38.json": {
+   "sha256": "773a3c5adb64166a1ddd861e674cdbdacd9e30b27b2b99bd97b138cfdab29577",
+   "size": 63059
+  },
+  "builds/heroes/39.json": {
+   "sha256": "fb8da143c591908a49b03543b69978a81b0c34e48a5f249a453bde2ffeb63ef9",
+   "size": 66389
+  },
+  "builds/heroes/4.json": {
+   "sha256": "22ea4639890e9b758cc61555d7ae8d8ac3b36cff57ee1bfbfc24ee182fa86a33",
+   "size": 58656
+  },
+  "builds/heroes/40.json": {
+   "sha256": "0423a2f1410364be5596babdc18b21470e502776cf01fb2375edccb4f0afd77c",
+   "size": 63510
+  },
+  "builds/heroes/41.json": {
+   "sha256": "a1614a53f5d8acad7ed9aad72293bd0115cffc69170e551b1e84bc340e88bf1b",
+   "size": 66533
+  },
+  "builds/heroes/412.json": {
+   "sha256": "8ac5be2c3bf4fbf56e6ddce006c0292070c0d11f1b040d7e8b960a2c59fbed45",
+   "size": 64700
+  },
+  "builds/heroes/42.json": {
+   "sha256": "deb0bcc29fc7a79d0f4aa1bdcf19febd25e964b3796a86112162b47089a7c09a",
+   "size": 68973
+  },
+  "builds/heroes/420.json": {
+   "sha256": "39ef5de443b86fba6d65f7975ab6a355fdebd70ede1fcebd16cfa1e97ab61544",
+   "size": 59654
+  },
+  "builds/heroes/421.json": {
+   "sha256": "fa1d8e8b7732956f6b633f0eb66f2501d9fe2a337da4ba2b8038965f9adafbe5",
+   "size": 59319
+  },
+  "builds/heroes/427.json": {
+   "sha256": "1307e893a1ef3b91c5c3d417a06f7a5ce053538c8fa9f8b6396552a771da20a3",
+   "size": 61153
+  },
+  "builds/heroes/429.json": {
+   "sha256": "b6b3fc70674b316ffd654417733b82238637d1139b00d03bc33f4bd37c460495",
+   "size": 62526
+  },
+  "builds/heroes/43.json": {
+   "sha256": "b2d7f921f9673b421aecaaccaec180c66753a24fccd953ee9da0485265b8c5d7",
+   "size": 68552
+  },
+  "builds/heroes/432.json": {
+   "sha256": "95cfbf1d4c53a6d0692042ff3f1213b02557e210cb163c19eaed7c5dd6078cb9",
+   "size": 66037
+  },
+  "builds/heroes/44.json": {
+   "sha256": "e19a55edcb1b74babc7c08c453a55e80e69d739fe679fb81f2ff130dde93b1ed",
+   "size": 58390
+  },
+  "builds/heroes/45.json": {
+   "sha256": "d5fb00f2431b24a785e91a3080a513424050a1ba5a0ded9bc87b9c3518f58483",
+   "size": 51641
+  },
+  "builds/heroes/48.json": {
+   "sha256": "667fbab40816ca4ed3855b12012629eb0f02fae08bb8fd5c99b0528ec54839c8",
+   "size": 75721
+  },
+  "builds/heroes/497.json": {
+   "sha256": "789e2c2156eb4512ed6ed36963609f48682ccfd5ba11ba8351dca8477895e69c",
+   "size": 64151
+  },
+  "builds/heroes/498.json": {
+   "sha256": "1e41136cf38f8e5bb469e92bd753f9387ced579313d3012d5e11635b8d007e23",
+   "size": 56318
+  },
+  "builds/heroes/5.json": {
+   "sha256": "11fdabf373102280fea305f0fd81560188bb8d072dfcce0ca9f16ecc89fbcaca",
+   "size": 89123
+  },
+  "builds/heroes/50.json": {
+   "sha256": "e8c448c6c098a09d99f7e279a16b881df346026d2447863128e2ae3629a46ee0",
+   "size": 68655
+  },
+  "builds/heroes/51.json": {
+   "sha256": "ba31d8f30fc14c51e7f1ce7a55084c8d73e1124292559f4df47d5ed4c86172c9",
+   "size": 63942
+  },
+  "builds/heroes/516.json": {
+   "sha256": "2f23c7316003b05d5e7710528ab8d97bc0e5e8d73c8479b368409f528fdd735e",
+   "size": 53589
+  },
+  "builds/heroes/517.json": {
+   "sha256": "0d40824f1a3bb7488613d282666cdacffe4340e8964aa833c96d9099a30937d2",
+   "size": 74024
+  },
+  "builds/heroes/518.json": {
+   "sha256": "f8feb79b8f86a59dcc5ea71e06b8147983d32857763d0aaffc8ec1720bfd0a08",
+   "size": 58022
+  },
+  "builds/heroes/523.json": {
+   "sha256": "b014257dedbd63284ddf54c9b0b5999612c6245caec3ecc9ae5337d48f37fa20",
+   "size": 52594
+  },
+  "builds/heroes/526.json": {
+   "sha256": "5a2900951a5a07cce38b89e486b0a3a383eacf4cfb8cf5df52506bb39a49433f",
+   "size": 54849
+  },
+  "builds/heroes/53.json": {
+   "sha256": "f4ae949a838666dc031e116d110a5efba20cb62a550361274840705d0f47aef1",
+   "size": 68866
+  },
+  "builds/heroes/54.json": {
+   "sha256": "ccf0ed2b8fef4f8e792765a8d7283b5d3b31476ca8d08b7ed7418855be17bcda",
+   "size": 74720
+  },
+  "builds/heroes/55.json": {
+   "sha256": "97bb2313848af91601d5e3411a8378b183e337d8aa9312f1a32444caa7353723",
+   "size": 69391
+  },
+  "builds/heroes/555.json": {
+   "sha256": "2093c3e6665d6a0dbdc5436ab4362e389b80cfa9d711c6bdcfdd95cadf8e6cf1",
+   "size": 55224
+  },
+  "builds/heroes/56.json": {
+   "sha256": "481937d6f1c84aaf9ec8c028cf0d65ba71d252706d5ca0d5d7183f5d1f4c11cf",
+   "size": 64020
+  },
+  "builds/heroes/57.json": {
+   "sha256": "7dc2fa5e46cfc32ff9187db04934005a6d11b16becbc9735b06090bd9d4c31ee",
+   "size": 68765
+  },
+  "builds/heroes/58.json": {
+   "sha256": "506a8de06e35178b1ea01c236f549093318d4b9c7c249ad165935edd70560c89",
+   "size": 69829
+  },
+  "builds/heroes/59.json": {
+   "sha256": "2cb4dfcd433c942597c62657ebffd3a32b2174d40139b07e330f1522b6f78645",
+   "size": 81453
+  },
+  "builds/heroes/6.json": {
+   "sha256": "f837c760b065e8880527c1d0aa54e10fc5c1d7de89474ed179712c4522f9df44",
+   "size": 60617
+  },
+  "builds/heroes/60.json": {
+   "sha256": "6ee70ac9f0f1d98456287de7bda84ce52bc2b27fce56b4a8aa066a898c87dd78",
+   "size": 51142
+  },
+  "builds/heroes/61.json": {
+   "sha256": "ebfe713a86a9076c37f7358af408be47de15d848e5fa435291864225a09a4b33",
+   "size": 57790
+  },
+  "builds/heroes/62.json": {
+   "sha256": "5a430a7e6d40d3270bf0538aec223e6dcdc36fb403578871209cc9a67c7738bd",
+   "size": 74072
+  },
+  "builds/heroes/63.json": {
+   "sha256": "0bb648504010ab6738c82e9fd52c8ebd39142be3303d05f6741af176f54e7592",
+   "size": 54182
+  },
+  "builds/heroes/64.json": {
+   "sha256": "a336d010c90f9d7152cda5ce231bc02f6bc5824e375c648754427ed615fdccfa",
+   "size": 71297
+  },
+  "builds/heroes/67.json": {
+   "sha256": "1043b747ec499ff125bda10e3a9017e2f52335cb0b49871d0d0e268f45040be0",
+   "size": 61997
+  },
+  "builds/heroes/68.json": {
+   "sha256": "0f05a39a3a41f6b92cd6fa61c20a1ff73736b309c5a749269822a605427770cc",
+   "size": 54192
+  },
+  "builds/heroes/69.json": {
+   "sha256": "0aff1ba184835a02aa769bf0ed19de6134037ad406552c1941f19bac7dbf7195",
+   "size": 55687
+  },
+  "builds/heroes/7.json": {
+   "sha256": "3127291c93d842609dba570c427d0349634477d19e185659a0043271c8c84000",
+   "size": 47054
+  },
+  "builds/heroes/711.json": {
+   "sha256": "f3471ffa5c4ad8e5caf43e035bd8f521c7a846520ff94d0832d441357cc09e2a",
+   "size": 51650
+  },
+  "builds/heroes/72.json": {
+   "sha256": "5612c7c44fe0125a5605f7f9261d1082613f2e58a37c2dfa6918e79457448735",
+   "size": 60317
+  },
+  "builds/heroes/74.json": {
+   "sha256": "c80e6de35cebf7a43fee995e535f2ac0c4231107d60c6c5a849383c1437ebf1e",
+   "size": 48366
+  },
+  "builds/heroes/75.json": {
+   "sha256": "e8937f9854714797b4e09441ab11ec2c0ca724cbd4e1ec29a8569273e96dd9dc",
+   "size": 77108
+  },
+  "builds/heroes/76.json": {
+   "sha256": "4fe5c795b4e26954cc7de56a9740b12bae3e81c21b465294e57758042f537ea3",
+   "size": 60757
+  },
+  "builds/heroes/77.json": {
+   "sha256": "b133f8aa05ed4741bbd91f47a403f27155707e493abc2403de763c4f21a74dae",
+   "size": 84985
+  },
+  "builds/heroes/777.json": {
+   "sha256": "5a2f276f1d5028dad924825b7dfed67887fc0e32c0d3040e92ace36547180c1b",
+   "size": 67736
+  },
+  "builds/heroes/78.json": {
+   "sha256": "d53ef5a7fc32c58a018872c121742a1874c007d986d7dbf2600ea6e724bf82a5",
+   "size": 61000
+  },
+  "builds/heroes/79.json": {
+   "sha256": "e16ca37b5ae6c746a65f07cfabd0ccdfc92f99d0c5bd33109285fd8748716cfa",
+   "size": 68845
+  },
+  "builds/heroes/799.json": {
+   "sha256": "bcedafdb1ab86060e059e68d73e097287a6e3ee8f1dc4be7af0033804bc82ffa",
+   "size": 67985
+  },
+  "builds/heroes/8.json": {
+   "sha256": "431cb3fa53978ab16500d9a53cb4a4983cdd783cffe51d5ef0b6ab7d54dc81bc",
+   "size": 65392
+  },
+  "builds/heroes/80.json": {
+   "sha256": "0e364d7c1df01da146cd73040f3da9b9942ce95f882f70db5849b8df3fdabfc2",
+   "size": 75223
+  },
+  "builds/heroes/800.json": {
+   "sha256": "821b469bc4dade0107a42b00d5e801692fa822c0a9e4fd3aca90355efedae539",
+   "size": 54013
+  },
+  "builds/heroes/804.json": {
+   "sha256": "ba7b5e826f4f494981a52d2af367575986293bccefed395c07cf3e9a61573652",
+   "size": 59320
+  },
+  "builds/heroes/805.json": {
+   "sha256": "85c4646fe0609297c7ad1a903c8a4d374c5baf84f639f3392f0cbb16f86bb162",
+   "size": 53159
+  },
+  "builds/heroes/81.json": {
+   "sha256": "94a8f478d7cb9f997ec4c70ae380e2b2aa68119e0e7bfcecaad33839b7f6b3de",
+   "size": 79175
+  },
+  "builds/heroes/82.json": {
+   "sha256": "194dfdc6acbfe2a0a262bbf52495ae5c89e45c32c7bac5476e03472c3fbde4a9",
+   "size": 69393
+  },
+  "builds/heroes/83.json": {
+   "sha256": "42f5ba22d6bf4c89b3dff9fb98e31df729835c212f471a907a8de4b85d5f3c96",
+   "size": 54149
+  },
+  "builds/heroes/84.json": {
+   "sha256": "ff2fff85435a1e6da6bfea7e90c26b437d35ab7bae1265cc3a69127c6d5a3fa2",
+   "size": 52773
+  },
+  "builds/heroes/85.json": {
+   "sha256": "a13928a0ff8f54ead70d24d7173696d53e93898e0f15c5587f0177d711f81ce7",
+   "size": 58925
+  },
+  "builds/heroes/86.json": {
+   "sha256": "362345d127f88b35fcc58faab3399f24f8a87984c8924db4929aa63f1dc37418",
+   "size": 74285
+  },
+  "builds/heroes/875.json": {
+   "sha256": "3dae2945ea652c2cefd4c5de4a0ab40f7830b623087e29d101aca5bb98af114f",
+   "size": 82747
+  },
+  "builds/heroes/876.json": {
+   "sha256": "04ebe6c27e0c7924c0eef4d1c2f018d74e35822af54c0c2f02426e2a06140d93",
+   "size": 51493
+  },
+  "builds/heroes/887.json": {
+   "sha256": "a5b8d1bc2e600b4f1e120c9eac6cee19e901fc375491b5c27fda7169932b3b5c",
+   "size": 67473
+  },
+  "builds/heroes/888.json": {
+   "sha256": "977feb97595652a3ea33853e6bf6e44d9ab32064b516d5ecd30f4297813a543a",
+   "size": 62754
+  },
+  "builds/heroes/89.json": {
+   "sha256": "c3caf8f0c55bde019809b26fe403f36ee9045fc963cadbd27db7df47c19635bc",
+   "size": 52341
+  },
+  "builds/heroes/893.json": {
+   "sha256": "cf7914e23163e3af31d747fab6bfd1e621f97c15e9ef27e6c99376c5a7d2c750",
+   "size": 61278
+  },
+  "builds/heroes/895.json": {
+   "sha256": "c8e4026d82f8965a2a5ada026845f8818699041add2c9b64f2b1d4ef0cf556ea",
+   "size": 55621
+  },
+  "builds/heroes/897.json": {
+   "sha256": "753872338576c3e352af9fbd9adec31de3a8468931f9a30814db7d93ee9b06ca",
+   "size": 60711
+  },
+  "builds/heroes/9.json": {
+   "sha256": "c28ae86947f68295cf13149971d66b385dec6d1c945776540be4e21e872e4383",
+   "size": 61644
+  },
+  "builds/heroes/90.json": {
+   "sha256": "425513ea9fc40583ce7f1e99f46601a6c4079bfad2d7f20e23485cbdd0e4f866",
+   "size": 45628
+  },
+  "builds/heroes/901.json": {
+   "sha256": "f86f2c645a54a8c92557407ca0dbe08460c9fff7592127c18c6290b6d107ef7a",
+   "size": 64655
+  },
+  "builds/heroes/902.json": {
+   "sha256": "d64b2bdcc2859cc7ef46b4a6a74ae618eaad4d108f64695b2e4f9594d25cbb44",
+   "size": 59843
+  },
+  "builds/heroes/904.json": {
+   "sha256": "2a183e5624cec80dcafb873a1c2deeec5b0074e403fd6f09544f924056470a79",
+   "size": 74147
+  },
+  "builds/heroes/91.json": {
+   "sha256": "3e55229ef480f8852cd6424d639add99d9e5e635396ae60917e16f87afe4df04",
+   "size": 58950
+  },
+  "builds/heroes/910.json": {
+   "sha256": "c8158e5a482e3b18601ae831c0ff8f58a62c93240fe99bdd4f535bff0b8c4327",
+   "size": 49426
+  },
+  "builds/heroes/92.json": {
+   "sha256": "4f9e4fbb65b12ce8af8a85bcc4e64abf56908914d123ecd73f497a6bc5f54ae2",
+   "size": 70361
+  },
+  "builds/heroes/950.json": {
+   "sha256": "ac81c7fdb922d0a047590997bdb14159df1e82f4493fb87cc27424390664f881",
+   "size": 62597
+  },
+  "builds/heroes/96.json": {
+   "sha256": "6c0d8b4ffe7ad4fcd3456f0b33f1c6f279b2c9628b6c466293c60fbbc079cdd3",
+   "size": 61914
+  },
+  "builds/heroes/98.json": {
+   "sha256": "e59d4eb6f6e0b2c6d9a6e8c40ecba88ada48b7dbc378335aecc654ba56e3d1d9",
+   "size": 68129
+  },
+  "builds/heroes/99.json": {
+   "sha256": "fb9852d4341dd27f5f6ed4ab6b22241cf5d00bf7f3b93820b7082a017085078a",
+   "size": 54945
+  },
+  "builds/index.json": {
+   "sha256": "2eeed55fbf808f74ce3bc90b04c17cdec329d360a5b177e29a027b35c3f94ad5",
+   "size": 56513
+  },
+  "icons/augment/1001.png": {
+   "sha256": "23e42f1945d6d2c686fbecd2851246535a1e2f5fdf8785183fc5f7bf790d0b36",
+   "size": 1025
+  },
+  "icons/augment/1002.png": {
+   "sha256": "7c5fcf1ea899dba7b63245e097f416d519f448c6b6be81a441c339201742bdcc",
+   "size": 1916
+  },
+  "icons/augment/1004.png": {
+   "sha256": "02e336b235ab093fb479ede9e16179a14ff53f1cfbb91f4c0271a982f17259c8",
+   "size": 1015
+  },
+  "icons/augment/1005.png": {
+   "sha256": "236714815964fccaf01a443f3f9f5a8f1dae79960f37478264a40ab54ed071be",
+   "size": 727
+  },
+  "icons/augment/1006.png": {
+   "sha256": "bbf6d7da1e0cada2f3d914ac7eaa09be2e07a1af0b68e05e5568c541e860ae51",
+   "size": 2087
+  },
+  "icons/augment/1007.png": {
+   "sha256": "9968302ae3840b13df8c60e8e378dec840118824c07337ef16699718522962cc",
+   "size": 1140
+  },
+  "icons/augment/1011.png": {
+   "sha256": "e433f24dc0813054d16cbc5278a4473a50a1b5982e7f80639517d4ddfde4a358",
+   "size": 2092
+  },
+  "icons/augment/1013.png": {
+   "sha256": "d0e59a5589a04921e7329bad19a27436e19a93a4d166a8e2ae008c6e1f2db035",
+   "size": 909
+  },
+  "icons/augment/1015.png": {
+   "sha256": "848f644bb35de12f465c2bd8b89dac7b3468f0cc624d43626096b47562d9ca20",
+   "size": 1543
+  },
+  "icons/augment/1018.png": {
+   "sha256": "30f4ceb562d454f7b2b597ddb9e9726377f7d710c4234ab341a03fe7817d8337",
+   "size": 1866
+  },
+  "icons/augment/1019.png": {
+   "sha256": "420b770613c1a9757ccf5edf51a24a25ad759378bb44570c2bcfca7a898cb336",
+   "size": 1855
+  },
+  "icons/augment/1020.png": {
+   "sha256": "7a2fd94531a9b03bdf8e44e5f81e620783a4ee6bed3dfa02f558554ff8ce9124",
+   "size": 1722
+  },
+  "icons/augment/1022.png": {
+   "sha256": "44eefc9ece6e249dae48f2a955abb7cbd48ea213eb8ecd2023aef41027ac8a18",
+   "size": 950
+  },
+  "icons/augment/1025.png": {
+   "sha256": "c8f427b69dc82add40e7287bc871a20efc1050989d4544f93d9b432ec82867fd",
+   "size": 890
+  },
+  "icons/augment/1026.png": {
+   "sha256": "524f94a8502e700e17126a984548aa561200f99f41f23302fc88f52ffbf679d5",
+   "size": 1746
+  },
+  "icons/augment/1027.png": {
+   "sha256": "757e34427be5607bb052855e43b453418e7687d726fe51003cd5bc45ca3bfa4d",
+   "size": 895
+  },
+  "icons/augment/1028.png": {
+   "sha256": "357b11d3687dd3e9567679b5e97e896b6404a908b592c75844fdc5ef52a2beb0",
+   "size": 1916
+  },
+  "icons/augment/1029.png": {
+   "sha256": "d417320e88f82d6f7a26c4d5d4deeb8b1bc8c7dd20a1b82c294a6403fc4f9770",
+   "size": 1014
+  },
+  "icons/augment/1030.png": {
+   "sha256": "51ea2fe84c3ba780d0c514c82fed692936f6f7cbdbf119d19f42e05ec74ff2cf",
+   "size": 901
+  },
+  "icons/augment/1034.png": {
+   "sha256": "02ba124ebc46f84308c465ffda9efbdeb7961225eeb06b116e4a1b8223a25f6e",
+   "size": 719
+  },
+  "icons/augment/1036.png": {
+   "sha256": "937568883bb424aea56a3c5ee0c7aee2e59eb0365b6542010d1712261c9c7c5d",
+   "size": 1864
+  },
+  "icons/augment/1037.png": {
+   "sha256": "189806c1d1867b852f4ba40ef63e6fad907aada99c58bb7972af52e323e311be",
+   "size": 1607
+  },
+  "icons/augment/1038.png": {
+   "sha256": "5dae23a5183437b9e65c4989ca50d4c764e0ae9193065d5cc994928cd54c3115",
+   "size": 895
+  },
+  "icons/augment/1041.png": {
+   "sha256": "64d019aa7ae8f9d168d7ec1d187baeb86d0474b48037e1ed3e1302c701a70600",
+   "size": 1117
+  },
+  "icons/augment/1044.png": {
+   "sha256": "9522e19893fab967f71ec91865005fb37702511510f827fd530b400290f83713",
+   "size": 2256
+  },
+  "icons/augment/1045.png": {
+   "sha256": "30e726617ed3fbfacf2f14a1dc25e936538bab0bea8c19f8c0ba9fe04872dd48",
+   "size": 1777
+  },
+  "icons/augment/1046.png": {
+   "sha256": "357b11d3687dd3e9567679b5e97e896b6404a908b592c75844fdc5ef52a2beb0",
+   "size": 1916
+  },
+  "icons/augment/1047.png": {
+   "sha256": "3954907dc5f4b8fb7ad146322c492bc3354a172aaea17b9716ce751ae537fb11",
+   "size": 1711
+  },
+  "icons/augment/1048.png": {
+   "sha256": "4c6f8c87f5a759e77e031b0c782e29fe83645310c13475634f76079a37a96705",
+   "size": 1795
+  },
+  "icons/augment/1051.png": {
+   "sha256": "7b4ea3f2de972543869f0b31f6eb6c0a1c2f8a1c2aae53f9f5eb8c20644bdbb1",
+   "size": 837
+  },
+  "icons/augment/1053.png": {
+   "sha256": "b61493f5bd23b5adb515120514abd6e9eeaa0d6cf43872201278533d5e632d86",
+   "size": 2109
+  },
+  "icons/augment/1054.png": {
+   "sha256": "b31a669620f298504694942a5b24fed35aef7c10f4cd9cc0ca6f928c3a8f7f12",
+   "size": 870
+  },
+  "icons/augment/1056.png": {
+   "sha256": "44464f9936a3bf7cb2e175902dc88285436b74e2230987711484b9516ae2d463",
+   "size": 1020
+  },
+  "icons/augment/1057.png": {
+   "sha256": "846783498de4327c19f12ce6c8fbf6285f49ecd732bc6924700b5ef8d0102f7b",
+   "size": 1855
+  },
+  "icons/augment/1058.png": {
+   "sha256": "26256c688ac079b21ce9fbcb49dc8b4e53b01b1d0a9060ff609698195bd94b82",
+   "size": 865
+  },
+  "icons/augment/1060.png": {
+   "sha256": "a65cd44d3a023b4aaba8870c034114d3fde1f0680808d5e030a9b0ff2f5040c3",
+   "size": 1027
+  },
+  "icons/augment/1061.png": {
+   "sha256": "04113d59655131193f8f5395e9737fed8ab44d210a95de864355d56d09f68f10",
+   "size": 1672
+  },
+  "icons/augment/1062.png": {
+   "sha256": "ea8068ae366347a2836b128a9f061dc1c7fdb28c94ae136e600d64db8a242ed2",
+   "size": 1657
+  },
+  "icons/augment/1063.png": {
+   "sha256": "270df3d3a807fe8390db47e29ca660590aea4d21fb1314fd295e7fe224e958aa",
+   "size": 1665
+  },
+  "icons/augment/1067.png": {
+   "sha256": "fdd4f0e0c936bef3082e5018ae1c75ec53004e8d67c9e286d393896daf600afa",
+   "size": 905
+  },
+  "icons/augment/1068.png": {
+   "sha256": "a1a3055ea27b882add6ecaad61ae870db1f25f101d9d9eb2bab1d7a8cab8b0a7",
+   "size": 1857
+  },
+  "icons/augment/1071.png": {
+   "sha256": "fc75c385d8f1d57ab8dec086f468a30e7330f12caeda9c77c49950d04e838719",
+   "size": 1017
+  },
+  "icons/augment/1072.png": {
+   "sha256": "7a6f8c68d31f7426ebae1da5f7d5dd8f694be81e1f82810abb5c9ba0923d42f1",
+   "size": 1840
+  },
+  "icons/augment/1073.png": {
+   "sha256": "c5d3599eaf358078a67a0ddc31204056a98edecb3354a5b47231eede19b2008b",
+   "size": 1651
+  },
+  "icons/augment/1074.png": {
+   "sha256": "7d0a86c3e312e7d18f826cebfcbe5940f01388f0fc313b613206241188a7bbae",
+   "size": 1889
+  },
+  "icons/augment/1076.png": {
+   "sha256": "5dedffc952d8775ba6ae480de5a8a5030312e5d990c7247a8247ad63f8ed4b1f",
+   "size": 816
+  },
+  "icons/augment/1077.png": {
+   "sha256": "10f4ce475221c7d8e7f136476aedc43ee50b8b4b5a31e834d792946578b46b1c",
+   "size": 1761
+  },
+  "icons/augment/1079.png": {
+   "sha256": "1353bdd7228c9e25a196219086d57a22db06ca873f4dfba0da15e1bb5ce26497",
+   "size": 1576
+  },
+  "icons/augment/1080.png": {
+   "sha256": "c60efd3a63fdb8c1b8f214789c4fe29e7a54c3ead2ee25a61e03028a965794c7",
+   "size": 1754
+  },
+  "icons/augment/1081.png": {
+   "sha256": "030e699f545d3f50a2565b9274faa53ed4c8dd6bcd3b043b2852c5d5517a84e4",
+   "size": 742
+  },
+  "icons/augment/1084.png": {
+   "sha256": "44eefc9ece6e249dae48f2a955abb7cbd48ea213eb8ecd2023aef41027ac8a18",
+   "size": 950
+  },
+  "icons/augment/1087.png": {
+   "sha256": "091dd92f8e2dcbc3e8b1a19547bf86af168d632792a3ce14bb4b254563f4a03d",
+   "size": 1029
+  },
+  "icons/augment/1088.png": {
+   "sha256": "1e962007ad3c7291fcc35d5afe90a3898edb508da6107af6e184df17704e935a",
+   "size": 2013
+  },
+  "icons/augment/1092.png": {
+   "sha256": "94b6d563d2fe0401ce071b3157b8ddfe9028d23cc586e7e7a82451fd9c0aa214",
+   "size": 971
+  },
+  "icons/augment/1095.png": {
+   "sha256": "a8d08dac20c1145b91ca6ebc4234c3baeedc4b5bc01ba116246a88733e061092",
+   "size": 980
+  },
+  "icons/augment/1097.png": {
+   "sha256": "fd05288c98ed6db843e1f900844b8fccf61a7610df11f4298bc7e4d2223ae3ea",
+   "size": 830
+  },
+  "icons/augment/1098.png": {
+   "sha256": "5274dda6d8f896c0bf6db14c4a66efff7e280cc9216615fbce89b73809f84a6d",
+   "size": 1898
+  },
+  "icons/augment/1103.png": {
+   "sha256": "21a3accbd308d818140347ce9e584ff86f6e5be151f46c938af29183a6b1bac4",
+   "size": 1373
+  },
+  "icons/augment/1104.png": {
+   "sha256": "44bf258e81d1666edd27e2d363422c8c219ff2125022e8a86772cdaed49441b6",
+   "size": 1490
+  },
+  "icons/augment/1105.png": {
+   "sha256": "ac84747dd8b3b5b01737c4c05d336a57e15d44188735a54c08758474bc262a31",
+   "size": 1729
+  },
+  "icons/augment/1112.png": {
+   "sha256": "f12a65b4931066041bf9ca13d619bd42958bbb21d2183ba0ca86e88b0d0b78c2",
+   "size": 1662
+  },
+  "icons/augment/1113.png": {
+   "sha256": "df33840a9db3fab0db1755ff20f5eb4eae0aebf54a874a8df0135b276248c534",
+   "size": 868
+  },
+  "icons/augment/1115.png": {
+   "sha256": "fc75c385d8f1d57ab8dec086f468a30e7330f12caeda9c77c49950d04e838719",
+   "size": 1017
+  },
+  "icons/augment/1116.png": {
+   "sha256": "420b770613c1a9757ccf5edf51a24a25ad759378bb44570c2bcfca7a898cb336",
+   "size": 1855
+  },
+  "icons/augment/1118.png": {
+   "sha256": "058bc2354aa2f2a1283ed0c3351a259a5df2a136c946a468a706c3694a06e9da",
+   "size": 889
+  },
+  "icons/augment/1129.png": {
+   "sha256": "7b4ea3f2de972543869f0b31f6eb6c0a1c2f8a1c2aae53f9f5eb8c20644bdbb1",
+   "size": 837
+  },
+  "icons/augment/1133.png": {
+   "sha256": "7d95b7ba362da1a6bb7a8f7d4fc061e5d58ae6d0ace1913639041616499c6e81",
+   "size": 1611
+  },
+  "icons/augment/1134.png": {
+   "sha256": "f181280a1029e65f3c25e8f0601dfa9f2ab72492c7455a935b2bf25b24a5f593",
+   "size": 1012
+  },
+  "icons/augment/1136.png": {
+   "sha256": "625c7adb1901591085e5c05c38282a6c4d0cc6a245ee0e70b4e75c1e2176537c",
+   "size": 763
+  },
+  "icons/augment/1138.png": {
+   "sha256": "5f68faa232a8114d2c3fa514d1012161c3d33ef74f4625b80c46041a9b3b8517",
+   "size": 831
+  },
+  "icons/augment/1141.png": {
+   "sha256": "8221784d2a53fe75e4a5d72ec6a2d86945b075ac15a64db806cc64dbd6005ee1",
+   "size": 1438
+  },
+  "icons/augment/1149.png": {
+   "sha256": "30f4ceb562d454f7b2b597ddb9e9726377f7d710c4234ab341a03fe7817d8337",
+   "size": 1866
+  },
+  "icons/augment/1150.png": {
+   "sha256": "21a3accbd308d818140347ce9e584ff86f6e5be151f46c938af29183a6b1bac4",
+   "size": 1373
+  },
+  "icons/augment/1151.png": {
+   "sha256": "21a3accbd308d818140347ce9e584ff86f6e5be151f46c938af29183a6b1bac4",
+   "size": 1373
+  },
+  "icons/augment/1152.png": {
+   "sha256": "221937779d238da69a46ea7ad3c8e9adcc6aae06ff74849f5ff736df5f30e70a",
+   "size": 1109
+  },
+  "icons/augment/1154.png": {
+   "sha256": "b30122b2daffaca76937d52b1a5a977f2564c1297d31f3447b90703158434c0d",
+   "size": 2134
+  },
+  "icons/augment/1156.png": {
+   "sha256": "221937779d238da69a46ea7ad3c8e9adcc6aae06ff74849f5ff736df5f30e70a",
+   "size": 1109
+  },
+  "icons/augment/1170.png": {
+   "sha256": "fc75c385d8f1d57ab8dec086f468a30e7330f12caeda9c77c49950d04e838719",
+   "size": 1017
+  },
+  "icons/augment/1180.png": {
+   "sha256": "44464f9936a3bf7cb2e175902dc88285436b74e2230987711484b9516ae2d463",
+   "size": 1020
+  },
+  "icons/augment/1181.png": {
+   "sha256": "7b4ea3f2de972543869f0b31f6eb6c0a1c2f8a1c2aae53f9f5eb8c20644bdbb1",
+   "size": 837
+  },
+  "icons/augment/1187.png": {
+   "sha256": "757e34427be5607bb052855e43b453418e7687d726fe51003cd5bc45ca3bfa4d",
+   "size": 895
+  },
+  "icons/augment/1194.png": {
+   "sha256": "7d9dc16df747d0c968d466e4972004ab66c8cfd371c0328e6aa3e9ce54acda78",
+   "size": 1310
+  },
+  "icons/augment/1195.png": {
+   "sha256": "bc2fe6785e8b6ca1741df7735f6508b0fe2da8d9b908bc8a60afdb6b5e66d682",
+   "size": 1736
+  },
+  "icons/augment/1204.png": {
+   "sha256": "165add231d6db361da2b93dadadea61a19756c9004b133ffd8f91b71920b35f2",
+   "size": 1408
+  },
+  "icons/augment/1205.png": {
+   "sha256": "3bb9b2067281f2676253ba22cb8c2d909e894ef4d4c2d49dc051a6a5d3b063de",
+   "size": 937
+  },
+  "icons/augment/1206.png": {
+   "sha256": "3bb9b2067281f2676253ba22cb8c2d909e894ef4d4c2d49dc051a6a5d3b063de",
+   "size": 937
+  },
+  "icons/augment/1211.png": {
+   "sha256": "5598c00a61262d459b8f2a78faf8a4db430a018ec54b359b4359ec2ab65f16dd",
+   "size": 941
+  },
+  "icons/augment/1214.png": {
+   "sha256": "5af131b93419922039b3325334bcc7807f9681c9b495776d4307590a0bf9fee3",
+   "size": 1781
+  },
+  "icons/augment/1225.png": {
+   "sha256": "58fb85ed018fa2f17d4808a57c242c3636ac95c21352622b1014d2e0da90470d",
+   "size": 891
+  },
+  "icons/augment/12317.png": {
+   "sha256": "212de6bc5dbdb6f554c99a0facb34e7e8426fdfc8ea79772e063f1f291d90dba",
+   "size": 898
+  },
+  "icons/augment/1237.png": {
+   "sha256": "6a255f4908f04fde9e94c6a9b7cde743c8499bb7aa4e61ec695af54b41839fed",
+   "size": 1005
+  },
+  "icons/augment/1238.png": {
+   "sha256": "6a255f4908f04fde9e94c6a9b7cde743c8499bb7aa4e61ec695af54b41839fed",
+   "size": 1005
+  },
+  "icons/augment/1243.png": {
+   "sha256": "5131f5628118e8907137c98b501a025686734a1e0c8ad509c93534e8f40a1760",
+   "size": 1984
+  },
+  "icons/augment/1301.png": {
+   "sha256": "6a6125f0821ad59e822e1601cdc19373e36a24bc843a6163eb109e3399500183",
+   "size": 2006
+  },
+  "icons/augment/1305.png": {
+   "sha256": "436bf96cdc22fe2f121aca0e0fc69ad03d3d589ec449d71adf1bbe7736662f6b",
+   "size": 779
+  },
+  "icons/augment/1308.png": {
+   "sha256": "c9cb72c9cec971974d9788771129c8ff92571581e41186802c16cf587ebdc251",
+   "size": 1434
+  },
+  "icons/augment/1310.png": {
+   "sha256": "c26a6b539eb11e0e4c9ae168e79812a4ee356fbf8e720934cbe1d7157570f7ec",
+   "size": 1196
+  },
+  "icons/augment/1311.png": {
+   "sha256": "d417320e88f82d6f7a26c4d5d4deeb8b1bc8c7dd20a1b82c294a6403fc4f9770",
+   "size": 1014
+  },
+  "icons/augment/1314.png": {
+   "sha256": "4223cdb8df8baabbcf909fe16d9def7cb6b7401b7996b4a30d0752e9d771afc8",
+   "size": 1031
+  },
+  "icons/augment/1315.png": {
+   "sha256": "5ff8db8013f5889a79ee1c46e1c4e4ce34e6dd78111a3fabde81ac9de27194a2",
+   "size": 1193
+  },
+  "icons/augment/1318.png": {
+   "sha256": "af47307ac101ecbc04525f9f9eecc451a9b882cdaeb9db0e8437aae08f9a8d25",
+   "size": 783
+  },
+  "icons/augment/1319.png": {
+   "sha256": "252fbb020b8e95b209336f010c38fa1116e8c4151a2422fd7459c6ada7ef0e86",
+   "size": 996
+  },
+  "icons/augment/1320.png": {
+   "sha256": "f9d620150a66db907bca91933d5e1e71b976a45ce5f4d695fe7317890f3ee862",
+   "size": 932
+  },
+  "icons/augment/1322.png": {
+   "sha256": "e816acfbecb1d255620841786d02d4195bebddbf4b340f8858254a106436fb9f",
+   "size": 837
+  },
+  "icons/augment/1323.png": {
+   "sha256": "2482733c72f11afd1482f7754cebb8284997def6265acecf4c1da74cb53c6216",
+   "size": 1334
+  },
+  "icons/augment/1324.png": {
+   "sha256": "a8d08dac20c1145b91ca6ebc4234c3baeedc4b5bc01ba116246a88733e061092",
+   "size": 980
+  },
+  "icons/augment/1325.png": {
+   "sha256": "b206a06425a60e00bd6cdbdf3714a9af51bdbe47f52daea433e0d4e122530cad",
+   "size": 1138
+  },
+  "icons/augment/1326.png": {
+   "sha256": "b206a06425a60e00bd6cdbdf3714a9af51bdbe47f52daea433e0d4e122530cad",
+   "size": 1138
+  },
+  "icons/augment/1328.png": {
+   "sha256": "e816acfbecb1d255620841786d02d4195bebddbf4b340f8858254a106436fb9f",
+   "size": 837
+  },
+  "icons/augment/1329.png": {
+   "sha256": "c2b43447cc47e82823c0206d323a60825b2b3953625f2aac3eceeea80206518b",
+   "size": 865
+  },
+  "icons/augment/1331.png": {
+   "sha256": "e4c498adff308fd8ed3fae86a3d98efbf19af4d21d73a785406ff4d0a775c386",
+   "size": 1624
+  },
+  "icons/augment/1332.png": {
+   "sha256": "3c844d8a493e729a5912e19ee2115254bef48df8694efc14cb788fd1b8af5db1",
+   "size": 1263
+  },
+  "icons/augment/1333.png": {
+   "sha256": "1bc7909e5a6e9aaf253335a092c37aa27425480ed36add4360dcdebfaf5b8608",
+   "size": 774
+  },
+  "icons/augment/1335.png": {
+   "sha256": "d065ea1fe0373b3641d551643df9323001240637883d4c85a1c55a0c44518c0d",
+   "size": 802
+  },
+  "icons/augment/1336.png": {
+   "sha256": "fd4915db3ab33dc99077c59e20642fb40ab2e40ec0819b51056ac73ab2c89291",
+   "size": 966
+  },
+  "icons/augment/1337.png": {
+   "sha256": "1259cb15b190c818638d01f7f14d69b3f21a0dd1a96235f30d102bc224eaf390",
+   "size": 1578
+  },
+  "icons/augment/1344.png": {
+   "sha256": "e76ac68869eebe7256f9733ab9d4d9dc02ae07c50da7344a3587a75837a52388",
+   "size": 940
+  },
+  "icons/augment/1347.png": {
+   "sha256": "02ba124ebc46f84308c465ffda9efbdeb7961225eeb06b116e4a1b8223a25f6e",
+   "size": 719
+  },
+  "icons/augment/1348.png": {
+   "sha256": "e9259de8242931420f1ddd0f1e075f86ed342c4cf658e9e4798fe2e7b32254b4",
+   "size": 710
+  },
+  "icons/augment/1349.png": {
+   "sha256": "8dcfd9e17f387a06831bf17dedc754154375fda209332db47002ed2c06c9dcad",
+   "size": 1090
+  },
+  "icons/augment/1353.png": {
+   "sha256": "82382319a2c4104f7d00b16517dc4a6d039e62c7f68b6049cc011284ff27d694",
+   "size": 814
+  },
+  "icons/augment/1358.png": {
+   "sha256": "c2b43447cc47e82823c0206d323a60825b2b3953625f2aac3eceeea80206518b",
+   "size": 865
+  },
+  "icons/augment/1373.png": {
+   "sha256": "dc61ead869287fa8d0d30c9f581554fd6f7f636d1e1913748d0911580386aa76",
+   "size": 893
+  },
+  "icons/augment/1375.png": {
+   "sha256": "fc706b329d1adc51fb26a6a587ee5ca8b8bcf461af5e10fce801b60be051891d",
+   "size": 808
+  },
+  "icons/augment/1379.png": {
+   "sha256": "1d91c59eceeaa35a6240d283429622102ccedde1881b2068d839d338c9def50e",
+   "size": 1532
+  },
+  "icons/augment/1384.png": {
+   "sha256": "fb02bf908ef53dfcc8283d31256bf8b743b647cb858f6a12484205c59fbde58d",
+   "size": 1847
+  },
+  "icons/augment/1386.png": {
+   "sha256": "4c64af9139630b6f102d8516aaf0fbf1a924cfce440031ccbfe4373cc7efcd98",
+   "size": 895
+  },
+  "icons/augment/1388.png": {
+   "sha256": "d5e0cc1f0dfbe255ed86e496e9e4f51df92fd7a17bc2333f6763f637194039ca",
+   "size": 849
+  },
+  "icons/augment/1389.png": {
+   "sha256": "7823c1cf95ecc09c55eb78bd97cba1381b9e754dc9d9b189c1a2205573240ad0",
+   "size": 849
+  },
+  "icons/augment/1390.png": {
+   "sha256": "34e7ba1e3c10a91118d4b40d950b9ce37685cd01c4165ce8408c3fef583042ed",
+   "size": 1476
+  },
+  "icons/augment/1392.png": {
+   "sha256": "e9c3b7810cb35d9f2ee9d306cb25b585a149c6afb65f29be1528dcdc466b235a",
+   "size": 2236
+  },
+  "icons/augment/1401.png": {
+   "sha256": "9ff1d4113d50916a3750aa18a5c651ffeba124e1e104d6591ec336bbba675fee",
+   "size": 715
+  },
+  "icons/augment/1402.png": {
+   "sha256": "ec663c2388a3e5caaabf4235389a8926767d1b71ab69382ddb6b5a4bbaf134c2",
+   "size": 759
+  },
+  "icons/augment/1403.png": {
+   "sha256": "cd00cd2948ace170c39babf4c8bed2497d86141b70e23c6cc236bbd374c192c1",
+   "size": 1581
+  },
+  "icons/augment/1404.png": {
+   "sha256": "cd00cd2948ace170c39babf4c8bed2497d86141b70e23c6cc236bbd374c192c1",
+   "size": 1581
+  },
+  "icons/augment/1413.png": {
+   "sha256": "5dd6c45831c3bbc2ea42d9528def6fcf58b03586152cb6690258fce572ba0eed",
+   "size": 2272
+  },
+  "icons/augment/1415.png": {
+   "sha256": "731079c6e225238a267cefd22c97bc8a87c7c7eb639bcdd029aa0e041047630e",
+   "size": 969
+  },
+  "icons/augment/1416.png": {
+   "sha256": "357b11d3687dd3e9567679b5e97e896b6404a908b592c75844fdc5ef52a2beb0",
+   "size": 1916
+  },
+  "icons/augment/1420.png": {
+   "sha256": "09afe45869f91cbc252ab2b9f475628451813678b6353a101fe469369adbd74f",
+   "size": 929
+  },
+  "icons/augment/1421.png": {
+   "sha256": "508f330bda147f6f01970f407ef07c90fbe7c987062b5fea371e3064b93d9355",
+   "size": 848
+  },
+  "icons/augment/1996.png": {
+   "sha256": "dfcd66a3394531666f0763326b27b074107d8630e9129aa0fb2aee17f18c9cb2",
+   "size": 876
+  },
+  "icons/augment/2004.png": {
+   "sha256": "60c3110ea9c037870d7f1628ca60685c1b272d55ae69bfba513dd67844165189",
+   "size": 1658
+  },
+  "icons/augment/2005.png": {
+   "sha256": "b61493f5bd23b5adb515120514abd6e9eeaa0d6cf43872201278533d5e632d86",
+   "size": 2109
+  },
+  "icons/augment/2009.png": {
+   "sha256": "1a48aed46411048ab837f498996189c4156acdc355f2cdafa0c27293a689929f",
+   "size": 1766
+  },
+  "icons/augment/2010.png": {
+   "sha256": "bcc6e798f4e8f4fec39ea914829f97aa13a3b0cdcd59db5185c9ebb0d5e2e56a",
+   "size": 1772
+  },
+  "icons/augment/2016.png": {
+   "sha256": "b4c8271ff3cd48150dc6fa8dfe298c502990138e8d2fe10fc515a80f1ed0da9e",
+   "size": 1014
+  },
+  "icons/augment/2018.png": {
+   "sha256": "06f0082f9e3a2379f2009ad10dae0b90dd5d73cb44f9bbfe24bf2db43e67a6e0",
+   "size": 763
+  },
+  "icons/augment/2026.png": {
+   "sha256": "6e5891c37b784263f590a154a2559561202eb52318b769cda4d10ee5b27c2859",
+   "size": 776
+  },
+  "icons/augment/2032.png": {
+   "sha256": "6261472e703aafb71fcf88e7340ef2994af459fcd4847b4d0b2b6ebec5864699",
+   "size": 828
+  },
+  "icons/augment/2034.png": {
+   "sha256": "9d4050b8c88bdf09e51cc084afcf72c6f26692a81631b8229e7dd90559900422",
+   "size": 830
+  },
+  "icons/augment/2043.png": {
+   "sha256": "1d91c59eceeaa35a6240d283429622102ccedde1881b2068d839d338c9def50e",
+   "size": 1532
+  },
+  "icons/augment/2054.png": {
+   "sha256": "618f2352dd46a4da41c763c85da566771cb2e1519ec420adfcbe341286e3115e",
+   "size": 1386
+  },
+  "icons/augment/2055.png": {
+   "sha256": "618f2352dd46a4da41c763c85da566771cb2e1519ec420adfcbe341286e3115e",
+   "size": 1386
+  },
+  "icons/augment/2062.png": {
+   "sha256": "618f2352dd46a4da41c763c85da566771cb2e1519ec420adfcbe341286e3115e",
+   "size": 1386
+  },
+  "icons/augment/2064.png": {
+   "sha256": "21a3accbd308d818140347ce9e584ff86f6e5be151f46c938af29183a6b1bac4",
+   "size": 1373
+  },
+  "icons/augment/2065.png": {
+   "sha256": "85ccc32f9376624203626dd93b08952dfe15281c7cbaad8a05cb5d3253c4447e",
+   "size": 19503
+  },
+  "icons/augment/2072.png": {
+   "sha256": "618f2352dd46a4da41c763c85da566771cb2e1519ec420adfcbe341286e3115e",
+   "size": 1386
+  },
+  "icons/augment/2073.png": {
+   "sha256": "de4f3bbb60979852f65a6f5eebcc049ed5c9b03fb57635be9418230ddbef18e5",
+   "size": 785
+  },
+  "icons/augment/2076.png": {
+   "sha256": "de4f3bbb60979852f65a6f5eebcc049ed5c9b03fb57635be9418230ddbef18e5",
+   "size": 785
+  },
+  "icons/augment/2077.png": {
+   "sha256": "10caea248e5d6ad729419545fe8aaf19bcdb73f3034c080c1182eb777dba307d",
+   "size": 1534
+  },
+  "icons/augment/2078.png": {
+   "sha256": "21a3accbd308d818140347ce9e584ff86f6e5be151f46c938af29183a6b1bac4",
+   "size": 1373
+  },
+  "icons/augment/2080.png": {
+   "sha256": "78dff20b81aa3019f0e84b9c98f6d606f20b3e409fe77af1f7c2d0a95eef6fc9",
+   "size": 808
+  },
+  "icons/augment/2083.png": {
+   "sha256": "0d63ee699516a8304a2c9676f9696223f8c23f4a2e2921b008e0c72dc581acb9",
+   "size": 892
+  },
+  "icons/augment/2087.png": {
+   "sha256": "d5d69a1c3ee2b657f0884eb90db8dae5e2725355133198789beaee9609e310eb",
+   "size": 793
+  },
+  "icons/augment/2088.png": {
+   "sha256": "78dff20b81aa3019f0e84b9c98f6d606f20b3e409fe77af1f7c2d0a95eef6fc9",
+   "size": 808
+  },
+  "icons/augment/2091.png": {
+   "sha256": "04113d59655131193f8f5395e9737fed8ab44d210a95de864355d56d09f68f10",
+   "size": 1672
+  },
+  "icons/augment/2096.png": {
+   "sha256": "21a3accbd308d818140347ce9e584ff86f6e5be151f46c938af29183a6b1bac4",
+   "size": 1373
+  },
+  "icons/augment/2098.png": {
+   "sha256": "420b770613c1a9757ccf5edf51a24a25ad759378bb44570c2bcfca7a898cb336",
+   "size": 1855
+  },
+  "icons/augment/2099.png": {
+   "sha256": "b206a06425a60e00bd6cdbdf3714a9af51bdbe47f52daea433e0d4e122530cad",
+   "size": 1138
+  },
+  "icons/augment/2100.png": {
+   "sha256": "21a3accbd308d818140347ce9e584ff86f6e5be151f46c938af29183a6b1bac4",
+   "size": 1373
+  },
+  "icons/augment/2102.png": {
+   "sha256": "19ea4e86b6c8adbe64616ba458045d6bfa9ad41df5833ad6b642e4c416c75bea",
+   "size": 793
+  },
+  "icons/augment/2103.png": {
+   "sha256": "d4571a1e597869b60bd78f3b76b308b8ac457a7ea5910a636e9166ab4b6bc952",
+   "size": 823
+  },
+  "icons/augment/2104.png": {
+   "sha256": "ea8093efc3318dc452df8899ed4b1068e5ac60131df365e058ef86db9a7943ae",
+   "size": 934
+  },
+  "icons/augment/2107.png": {
+   "sha256": "c348d24e12fe5c4b34cc16aa96dad90d02b0242e6e03920bf095b801442bbe9f",
+   "size": 998
+  },
+  "icons/augment/2111.png": {
+   "sha256": "21a3accbd308d818140347ce9e584ff86f6e5be151f46c938af29183a6b1bac4",
+   "size": 1373
+  },
+  "icons/augment/2115.png": {
+   "sha256": "0681a37b3cce778d49ad6647dd2ec62915198b078fc0f78f14eba2fa38218a9c",
+   "size": 806
+  },
+  "icons/augment/2116.png": {
+   "sha256": "7b4ea3f2de972543869f0b31f6eb6c0a1c2f8a1c2aae53f9f5eb8c20644bdbb1",
+   "size": 837
+  },
+  "icons/augment/2123.png": {
+   "sha256": "618f2352dd46a4da41c763c85da566771cb2e1519ec420adfcbe341286e3115e",
+   "size": 1386
+  },
+  "icons/augment/2125.png": {
+   "sha256": "de4f3bbb60979852f65a6f5eebcc049ed5c9b03fb57635be9418230ddbef18e5",
+   "size": 785
+  },
+  "icons/augment/2127.png": {
+   "sha256": "31129308a7116b21298cd23aa8c81f9614c7c415815fdcde69526d8f911d5988",
+   "size": 950
+  },
+  "icons/augment/2129.png": {
+   "sha256": "44eefc9ece6e249dae48f2a955abb7cbd48ea213eb8ecd2023aef41027ac8a18",
+   "size": 950
+  },
+  "icons/augment/2131.png": {
+   "sha256": "d417320e88f82d6f7a26c4d5d4deeb8b1bc8c7dd20a1b82c294a6403fc4f9770",
+   "size": 1014
+  },
+  "icons/augment/2132.png": {
+   "sha256": "785aa7673a6296038ca44ae9919fa17ff86ae96f1f08af2e9e70e38ddde50342",
+   "size": 832
+  },
+  "icons/augment/2133.png": {
+   "sha256": "21a3accbd308d818140347ce9e584ff86f6e5be151f46c938af29183a6b1bac4",
+   "size": 1373
+  },
+  "icons/augment/2134.png": {
+   "sha256": "e76ac68869eebe7256f9733ab9d4d9dc02ae07c50da7344a3587a75837a52388",
+   "size": 940
+  },
+  "icons/augment/2135.png": {
+   "sha256": "1353bdd7228c9e25a196219086d57a22db06ca873f4dfba0da15e1bb5ce26497",
+   "size": 1576
+  },
+  "icons/augment/2136.png": {
+   "sha256": "de4f3bbb60979852f65a6f5eebcc049ed5c9b03fb57635be9418230ddbef18e5",
+   "size": 785
+  },
+  "icons/augment/2137.png": {
+   "sha256": "80be1e2d3b446fce0f94690801565b8a45f9ce02cf63c596e66270b13a73502f",
+   "size": 917
+  },
+  "icons/augment/2138.png": {
+   "sha256": "de4f3bbb60979852f65a6f5eebcc049ed5c9b03fb57635be9418230ddbef18e5",
+   "size": 785
+  },
+  "icons/augment/2139.png": {
+   "sha256": "013ee53501bdd03f23a24c8985a2571b51df153565c4b1b6729ab4388654f91f",
+   "size": 847
+  },
+  "icons/augment/2140.png": {
+   "sha256": "dfcd66a3394531666f0763326b27b074107d8630e9129aa0fb2aee17f18c9cb2",
+   "size": 876
+  },
+  "icons/augment/2141.png": {
+   "sha256": "cadc7752af6b299e4e4789a0d5efb0b8316872d99c3c7f08b33b6feeaa0079da",
+   "size": 1758
+  },
+  "icons/augment/2143.png": {
+   "sha256": "fd4915db3ab33dc99077c59e20642fb40ab2e40ec0819b51056ac73ab2c89291",
+   "size": 966
+  },
+  "icons/augment/2144.png": {
+   "sha256": "de4f3bbb60979852f65a6f5eebcc049ed5c9b03fb57635be9418230ddbef18e5",
+   "size": 785
+  },
+  "icons/augment/2157.png": {
+   "sha256": "d52b7cc59951e94c72e9f684c512acee233399d72417de28894e0f8e4e92c96b",
+   "size": 1918
+  },
+  "icons/augment/3004.png": {
+   "sha256": "a466783d8021138349015907983d62b229e0444f10497c3dd4152676a7de0aa7",
+   "size": 1742
+  },
+  "icons/augment/3016.png": {
+   "sha256": "a9f082edcf9e2131afd78ebeb150d1ec12c623b6302e34a00694a6c17d6a4971",
+   "size": 834
+  },
+  "icons/augment/3018.png": {
+   "sha256": "4efb94f679a593f9b4654b125d4554cd926e747e29542dbf292ee9c5285908ea",
+   "size": 865
+  },
+  "icons/augment/3025.png": {
+   "sha256": "5ff8db8013f5889a79ee1c46e1c4e4ce34e6dd78111a3fabde81ac9de27194a2",
+   "size": 1193
+  },
+  "icons/augment/3036.png": {
+   "sha256": "34e7ba1e3c10a91118d4b40d950b9ce37685cd01c4165ce8408c3fef583042ed",
+   "size": 1476
+  },
+  "icons/augment/3039.png": {
+   "sha256": "9fcf159f89c113454b499403112a8bf949d2d5f2fdb828b4e438b7a8529732b8",
+   "size": 793
+  },
+  "icons/augment/3048.png": {
+   "sha256": "1259cb15b190c818638d01f7f14d69b3f21a0dd1a96235f30d102bc224eaf390",
+   "size": 1578
+  },
+  "icons/augment/3049.png": {
+   "sha256": "d7f49013572795f177c64564542976e35785b389b1b3945dd230ac562830e7ac",
+   "size": 1221
+  },
+  "icons/augment/3051.png": {
+   "sha256": "93896b316761659cdfe0e25682834e268ac19d1ec164484906ed249d4e23585e",
+   "size": 1065
+  },
+  "icons/augment/3052.png": {
+   "sha256": "fdf36d783ac84ddfa4eb24e3c9cec1eb0d84c5ab192b57708289db92e3ed62b1",
+   "size": 1815
+  },
+  "icons/augment/3053.png": {
+   "sha256": "618f2352dd46a4da41c763c85da566771cb2e1519ec420adfcbe341286e3115e",
+   "size": 1386
+  },
+  "icons/augment/3055.png": {
+   "sha256": "1a48aed46411048ab837f498996189c4156acdc355f2cdafa0c27293a689929f",
+   "size": 1766
+  },
+  "icons/augment/3058.png": {
+   "sha256": "e4baff9f4acfde07de22374cb380587ccbd56116be7f1df94ccae873b913f422",
+   "size": 868
+  },
+  "icons/augment/3059.png": {
+   "sha256": "bdc4ad8dea74c69d54812830c26e4030f0079f4b3372046ae8da866573dbfe33",
+   "size": 883
+  },
+  "icons/augment/3060.png": {
+   "sha256": "21a3accbd308d818140347ce9e584ff86f6e5be151f46c938af29183a6b1bac4",
+   "size": 1373
+  },
+  "icons/augment/3063.png": {
+   "sha256": "4a20ea73a9ce4f9dcdfe340185ffe35f36060048f9d7a6ac5a9ebc2cf50f0ee7",
+   "size": 992
+  },
+  "icons/augment/3071.png": {
+   "sha256": "9352de780785d24b0110d7a83447cb896cc95ed6c60e39f46f84e62b6796e7f9",
+   "size": 2066
+  },
+  "icons/augment/3075.png": {
+   "sha256": "21a3accbd308d818140347ce9e584ff86f6e5be151f46c938af29183a6b1bac4",
+   "size": 1373
+  },
+  "icons/augment/3078.png": {
+   "sha256": "6e5f500b3f2176f3b0f504bd9588b513324ede1619652e983754471b66c6e1da",
+   "size": 759
+  },
+  "icons/augment/3079.png": {
+   "sha256": "08fc1be101ee622fde1a16c7ccab84bcaadbb122012a1894f77ca735bc864e24",
+   "size": 1333
+  },
+  "icons/augment/3081.png": {
+   "sha256": "882d75dbed0143734bb6ccc12adeb341e972b71fe1f8e78b314a3ef34a8530a5",
+   "size": 904
+  },
+  "icons/augment/3085.png": {
+   "sha256": "60969980b55e6befe6e641d04d2ff598aae3cb452c63c6fa0bb62c390456892d",
+   "size": 1958
+  },
+  "icons/augment/3086.png": {
+   "sha256": "d57532b696c88942fe432bb3c6fcbb5b1036cf8ba2359bd85b373bd1a059bd23",
+   "size": 1020
+  },
+  "icons/augment/3088.png": {
+   "sha256": "21a3accbd308d818140347ce9e584ff86f6e5be151f46c938af29183a6b1bac4",
+   "size": 1373
+  },
+  "icons/augment/3094.png": {
+   "sha256": "ccd74af9a0c481f962b4985f6aa85b8dd49ae1d3e5115dd5b829f3fbc12d13ce",
+   "size": 1009
+  },
+  "icons/augment/3116.png": {
+   "sha256": "806ce35483193deee526535e8e58a0c41a1369ca375c668cf732f85a04ad2fd6",
+   "size": 815
+  },
+  "icons/augment/3118.png": {
+   "sha256": "631c7ab94d1b12d592134d3b2bc1008699e27e562ef6764d185896272e5eb344",
+   "size": 863
+  },
+  "icons/augment/3121.png": {
+   "sha256": "0d6efe5da3bac2835337767e96fbeff429adf6a6de0d9d95deec9d9d0b79bf15",
+   "size": 950
+  },
+  "icons/augment/3123.png": {
+   "sha256": "21a3accbd308d818140347ce9e584ff86f6e5be151f46c938af29183a6b1bac4",
+   "size": 1373
+  },
+  "icons/augment/3129.png": {
+   "sha256": "d01d214dcf84b0782f7bd6dbde1ea30049a23ebe164209e10f1d45206e4b948d",
+   "size": 872
+  },
+  "icons/augment/3131.png": {
+   "sha256": "d7f49013572795f177c64564542976e35785b389b1b3945dd230ac562830e7ac",
+   "size": 1221
+  },
+  "icons/augment/3132.png": {
+   "sha256": "a23b082d367c2dc4b894094373c83e4d6ba0a5d0f9d1dadaae74a6efead906e6",
+   "size": 820
+  },
+  "icons/augment/3134.png": {
+   "sha256": "9ff6da6cbdd773352dafe23de0daaf4391578a7875830537f0b3ec255c542e1d",
+   "size": 1867
+  },
+  "icons/augment/3149.png": {
+   "sha256": "e4c498adff308fd8ed3fae86a3d98efbf19af4d21d73a785406ff4d0a775c386",
+   "size": 1624
+  },
+  "icons/augment/3150.png": {
+   "sha256": "10caea248e5d6ad729419545fe8aaf19bcdb73f3034c080c1182eb777dba307d",
+   "size": 1534
+  },
+  "icons/augment/3159.png": {
+   "sha256": "8dcfd9e17f387a06831bf17dedc754154375fda209332db47002ed2c06c9dcad",
+   "size": 1090
+  },
+  "icons/augment/3163.png": {
+   "sha256": "9151cf81fba7554b9b6e0b20f698baf2c90ae025785dbb3d90e9b8157186e95f",
+   "size": 906
+  },
+  "icons/augment/3170.png": {
+   "sha256": "05e2e9f4a2a887ccea14fe336def4ca07d9b6ec168b285b0b0717120dd4c6cf4",
+   "size": 1613
+  },
+  "icons/augment/3171.png": {
+   "sha256": "05e2e9f4a2a887ccea14fe336def4ca07d9b6ec168b285b0b0717120dd4c6cf4",
+   "size": 1613
+  },
+  "icons/augment/3172.png": {
+   "sha256": "05e2e9f4a2a887ccea14fe336def4ca07d9b6ec168b285b0b0717120dd4c6cf4",
+   "size": 1613
+  },
+  "icons/augment/3173.png": {
+   "sha256": "05e2e9f4a2a887ccea14fe336def4ca07d9b6ec168b285b0b0717120dd4c6cf4",
+   "size": 1613
+  },
+  "icons/augment/3176.png": {
+   "sha256": "05e2e9f4a2a887ccea14fe336def4ca07d9b6ec168b285b0b0717120dd4c6cf4",
+   "size": 1613
+  },
+  "stats/augments.json": {
+   "sha256": "cb970a64df8b812f5b9865caad1ea7eaccee841dd4b59637e88ffd7538e11534",
+   "size": 15221
+  },
+  "stats/hero_augment_items.json": {
+   "sha256": "6df5a06fa90609b84683959dcbb3714d63a6c6bcad2174c9147670264b7eea35",
+   "size": 103257
+  },
+  "stats/hero_augments.json": {
+   "sha256": "b99e41f052453e9639e15bbe4ce1d85bd824fa7ff31c5aa5f5715dfde9fe0760",
+   "size": 2209116
+  },
+  "stats/hero_spells.json": {
+   "sha256": "16af8e4d4047673e49eacfb59adf2a9cc68724dcc46f477b855c138e2d0be52c",
+   "size": 201583
+  },
+  "stats/heroes.json": {
+   "sha256": "169f30ce971c80eb657b7b7fa7afcb15dfbc940ebc2d0446d98775a4dc8e1a87",
+   "size": 27955
+  },
+  "stats/latest.json": {
+   "sha256": "d2c4773df0aef12d4ac2a119e6a14d73a206ae428ec9f1ae356d540dbb072cb5",
+   "size": 1284
+  },
+  "stats/meta.json": {
+   "sha256": "3fb1b65a9375183462e55e35111264284767793c5e8526d8bc116b2f3cd96247",
+   "size": 3536
+  }
+ },
+ "generated_at": "2026-11-11T13:30:00",
+ "parts": {
+  "builds": {
+   "as_of": "2026-11-11T13:29:16.137423"
+  },
+  "icons": {
+   "as_of": "2026-11-11T13:30:00.324874"
+  },
+  "stats": {
+   "as_of": "2026-11-06T12:02:35+08:00",
+   "patch": "16.22"
+  }
+ },
+ "schema_version": 1,
+ "version": "2026.11.11"
+}
